@@ -98,7 +98,6 @@ The [examples](https://github.com/salesforce/agent-sdk/tree/main/examples) direc
 - [Creating an agent from a nested directory](https://github.com/salesforce/agent-sdk/blob/main/examples/create_agent_from_nested_directory.py)
 - [Creating an agent from a modular directory](https://github.com/salesforce/agent-sdk/blob/main/examples/create_agent_from_modular_directory.py)
 - [Creating an agent from a description](https://github.com/salesforce/agent-sdk/blob/main/examples/create_agent_from_description.py)
-- [Creating Apex classes](https://github.com/salesforce/agent-sdk/blob/main/examples/create_apex_class_example.py)
 - [Running an agent](https://github.com/salesforce/agent-sdk/blob/main/examples/run_agent.py)
 - [Exporting an agent](https://github.com/salesforce/agent-sdk/blob/main/examples/export_salesforce_agent_example.py)
 - [Using the MCP server](https://github.com/salesforce/agent-sdk/blob/main/examples/mcp_server_example.py)
